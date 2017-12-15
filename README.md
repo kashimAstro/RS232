@@ -20,7 +20,8 @@ and I/O serial communication.
 ```
 <br>
 <b>run example:</b>
-```
+
+```bash
 	./bin/example-led /dev/your-port
 	./bin/example-button /dev/your-port
 ```
