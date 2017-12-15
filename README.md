@@ -25,3 +25,4 @@ and I/O serial communication.
 	./bin/example-led /dev/your-port
 	./bin/example-button /dev/your-port
 ```
+<img src="img/sample1.gif">
